@@ -1,0 +1,3 @@
+{'Placa': 'ABC1234', 'Modelo': 'Fiat Uno verde', 'Ano': '2010', 'Contas': {'IPVA': '10/07/2025', 'Seguro': '13/02/2024 - Pago', 'Licenciamento': '20/05/2025  - Pago', 'Troca_oleo': '15/01/2025 - Realizada', 'Revisao': '26/04/2025 - Realizada'}, 'Multas': ['R$2055 - Rua Antunes - 13/06/2025 - Motorista: André']}
+{'Placa': 'CBA3214', 'Modelo': 'Hilux', 'Ano': '2013', 'Contas': {}, 'Multas': []}
+{'Placa': 'CAB4213', 'Modelo': 'Sandero', 'Ano': '2012', 'Contas': {}, 'Multas': []}
