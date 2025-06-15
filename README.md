@@ -32,7 +32,8 @@ O sistema busca oferecer uma organização básica e funcional desses dados de f
 - Cadastro e atualização de contas do veículo (IPVA, seguro, licenciamento, etc.)
 - Registro e visualização de multas, associando motorista e veículo
 
-##Tela inicial
+## Tela inicial
+
 ![Captura de tela 2025-06-14 213849](https://github.com/user-attachments/assets/3b74b218-079d-4f40-b37d-5f4ad083b53f)
 
 ## Motoristas
