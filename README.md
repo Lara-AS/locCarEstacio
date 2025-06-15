@@ -56,7 +56,7 @@ Faz o registro das contas fixas dos veículos da empresa (seguro, licenciamento 
 ![Captura de tela 2025-06-14 215853](https://github.com/user-attachments/assets/39a532f6-35d6-4a5f-8f6b-93e53a07e5b9)
 ![Captura de tela 2025-06-14 215910](https://github.com/user-attachments/assets/3d9d8dd1-3737-4fdd-b3d6-a93e42671c9d)
 
-##Multas
+## Multas
 Multas cometidas pelos motoristas cadastrados, seleciona a placa e o motorista, e escreve valor, data e local da multa.
 ![Captura de tela 2025-06-14 220500](https://github.com/user-attachments/assets/ac436ef7-aec5-48f8-ab83-fe71edccd936)
 ![Captura de tela 2025-06-14 220518](https://github.com/user-attachments/assets/ba4bff78-e737-4436-842c-21b028fd62eb)
