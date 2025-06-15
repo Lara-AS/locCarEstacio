@@ -42,8 +42,8 @@ Cadastro e vizualização de motoristas
 
 ## Veículos
 Cadastro e vizualização de veículos
-![Captura de tela 2025-06-14 215215](https://github.com/user-attachments/assets/83b9b900-33f1-48d3-ae
-![Captura de tela 2025-06-14 215246](https://github.com/user-attachments/assets/3f5524a1-911d-400f-858f-2f09174185f9)72-728578d6d987)
+![Captura de tela 2025-06-14 215215](https://github.com/user-attachments/assets/83b9b900-33f1-48d3-ae72-728578d6d987)
+![Captura de tela 2025-06-14 215246](https://github.com/user-attachments/assets/3f5524a1-911d-400f-858f-2f09174185f9)
 
 ## Movimentações de veículos
 Contém uma opção para selecionar o motorista e o carro cadastrado e registra a movimentação de qual motorista está com qual carro.
